@@ -2,19 +2,19 @@
 
 ## Red Portal
 
-![red-portal-demo](assets/red-portal-demo.mp4)
+https://github.com/user-attachments/assets/4a81728a-4c33-4635-a059-dc74b033a877
 
 ## Blue Portal
 
-![blue-portal-demo](assets/blue-portal-demo.mp4)
+https://github.com/user-attachments/assets/9a420b74-f69c-451e-9b75-ffe0ed724178
 
 ## Energy Explosion
 
-![energy-explosion-demo](assets/energy-explosion-demo.mp4)
+https://github.com/user-attachments/assets/f45bb79b-bdbb-49ac-bcb3-e384e184f6b1
 
 ## Energy Beam
 
-![energy-beam-demo](assets/energy-beam-demo.mp4)
+https://github.com/user-attachments/assets/d01eda31-d5c3-4896-a063-1ebc7a7ac4dd
 
 ## X-Ray Vision
 
